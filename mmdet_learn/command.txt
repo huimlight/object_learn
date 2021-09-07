@@ -1,0 +1,23 @@
+mmdet
+1.训练集可视化命令
+--output-dir 后边跟保存可视化文件的目录
+--not-show 表示直接存储不展示
+python tools/misc/browse_dataset.py configs/xxx/xxx.py --output-dir ./visivle/ --not-show
+
+2.可视化单张图片的测试结果(默认是展示大于0.3 score)
+python demo/image_demo.py demo/xxx.jpg configs/xxx/xxx.py check/xxx.pth
+
+3.评估模型
+--eval bbox 表示评估coco指标
+--eval mAP 表示评估voc指标
+classwise=True 表示展示每个类的AP值
+python tools/test.py configs/xxx/xxx.py check/xxx.pth --eval bbox --eval-options classwise=True
+
+Linux 
+1.后台运行命令(梧州集群)
+nohup bash tools/dist_train.sh configs/xxx/xxx.py 8 --seed xxx > runoob.log 2>&1 &
+
+
+Detectron2
+
+
