@@ -6,21 +6,22 @@
 
 ### nick-fpn
 
+### sample imbalance
+
 ### label assignment
 
 ### task misalignment
 
-### data augmentation
+### long-tailed
 
 ### nms
+
+### data augmentation
 
 ### unsupervised
 
 ### semi-supervised
 
-### long-tailed
-
-### sample imbalance
 
 ---
 
