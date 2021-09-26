@@ -6,13 +6,17 @@
 
 ### nick-fpn
 
+### long-tailed
+
 ### sample imbalance
 
 ### label assignment
 
-### task misalignment
+### dense detection
 
-### long-tailed
+### small scale detection
+
+### task misalignment
 
 ### nms
 
@@ -22,6 +26,11 @@
 
 ### semi-supervised
 
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
 
 ---
 
