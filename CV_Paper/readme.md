@@ -36,12 +36,252 @@
 
 ---
 
-### 解决小目标问题
+## 2020
 
-* [AAAI][2019] Learning Modulated Loss for Rotated Object Detection
+### generalized object detection
+
+### backbone
+
+### nick-fpn
+
+### long-tailed
+
+### sample imbalance
+
+### label assignment
+
+### dense detection
+
+### small scale detection
+
+### task misalignment
+
+### nms
+
+### data augmentation
+
+### unsupervised
+
+### semi-supervised
+
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
 
 ---
 
-### 解决密集目标问题
+## 2019
+
+### generalized object detection
+
+### backbone
+
+### nick-fpn
+
+### long-tailed
+
+### sample imbalance
+
+### label assignment
+
+### dense detection
+
+### small scale detection
+
+### task misalignment
+
+### nms
+
+### data augmentation
+
+### unsupervised
+
+### semi-supervised
+
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
 
 ---
+
+## 2018
+
+### generalized object detection
+
+### backbone
+
+### nick-fpn
+
+### long-tailed
+
+### sample imbalance
+
+### label assignment
+
+### dense detection
+
+### small scale detection
+
+### task misalignment
+
+### nms
+
+### data augmentation
+
+### unsupervised
+
+### semi-supervised
+
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
+
+---
+
+## 2018
+
+### generalized object detection
+
+### backbone
+
+### nick-fpn
+
+### long-tailed
+
+### sample imbalance
+
+### label assignment
+
+### dense detection
+
+### small scale detection
+
+### task misalignment
+
+### nms
+
+### data augmentation
+
+### unsupervised
+
+### semi-supervised
+
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
+
+---
+
+## 2017
+
+### generalized object detection
+
+### backbone
+
+### nick-fpn
+
+### long-tailed
+
+### sample imbalance
+
+### label assignment
+
+### dense detection
+
+### small scale detection
+
+### task misalignment
+
+### nms
+
+### data augmentation
+
+### unsupervised
+
+### semi-supervised
+
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
+
+---
+
+## 2016
+
+### generalized object detection
+
+### backbone
+
+### nick-fpn
+
+### long-tailed
+
+### sample imbalance
+
+### label assignment
+
+### dense detection
+
+### small scale detection
+
+### task misalignment
+
+### nms
+
+### data augmentation
+
+### unsupervised
+
+### semi-supervised
+
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
+
+---
+
+## 2015
+
+### generalized object detection
+
+### backbone
+
+### nick-fpn
+
+### long-tailed
+
+### sample imbalance
+
+### label assignment
+
+### dense detection
+
+### small scale detection
+
+### task misalignment
+
+### nms
+
+### data augmentation
+
+### unsupervised
+
+### semi-supervised
+
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
