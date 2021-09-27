@@ -4,6 +4,8 @@
 
 ### generalized object detection
 
+* [AAAI] Learning Modulated Loss for Rotated Object Detection
+
 ### backbone
 
 ### nick-fpn
