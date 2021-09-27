@@ -4,6 +4,15 @@
 
 ### generalized object detection
 
+* [2019] FreeAnchor: Learning to Match Anchors for Visual Object Detection
+* [2019] FCOS: Fully Convolutional One-Stage Object Detection
+* [2019] Objects as Points
+* [2018] CornerNet: Detecting Objects as Paired Keypoints
+* [2018] Focal Loss for Dense Object Detection
+* [2015] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+* [2015] Fast R-CNN
+* [2014] Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+* [2014] Rich feature hierarchies for accurate object detection and semantic segmentation
 
 ### backbone
 
