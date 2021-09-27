@@ -12,7 +12,7 @@
 
 ### nick-fpn
 
-
+* [2018] Path Aggregation Network for Instance Segmentation
 * [2017] Feature Pyramid Networks for Object Detection
 
 ### long-tailed
