@@ -55,19 +55,3 @@
 ### yolo
 
 ---
-
-### task misalignment
-
-### nms
-
-### data augmentation
-
-### unsupervised
-
-### semi-supervised
-
-### self-supervised
-
-### Continual Learning/Lifelong Learning
-
-### yolo
