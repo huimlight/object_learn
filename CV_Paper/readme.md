@@ -38,6 +38,44 @@
 
 ---
 
+## 2021
+
+### generalized object detection
+
+* [AAAI] Learning Modulated Loss for Rotated Object Detection
+
+### backbone
+
+### nick-fpn
+
+### long-tailed
+
+### sample imbalance
+
+### label assignment
+
+### dense detection
+
+### small scale detection
+
+### task misalignment
+
+### nms
+
+### data augmentation
+
+### unsupervised
+
+### semi-supervised
+
+### self-supervised
+
+### Continual Learning/Lifelong Learning
+
+### yolo
+
+---
+
 ## 2020
 
 ### generalized object detection
