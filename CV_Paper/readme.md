@@ -12,6 +12,7 @@
 
 ### nick-fpn
 
+* [2019] NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection
 * [2018] Path Aggregation Network for Instance Segmentation
 * [2017] Feature Pyramid Networks for Object Detection
 
