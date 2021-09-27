@@ -10,6 +10,7 @@
 * [2019] Objects as Points
 * [2018] CornerNet: Detecting Objects as Paired Keypoints
 * [2018] Focal Loss for Dense Object Detection
+* [2017] Cascade R-CNN Delving into High Quality Object Detection
 * [2015] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 * [2015] Fast R-CNN
 * [2014] Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
