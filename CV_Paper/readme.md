@@ -8,6 +8,7 @@
 ### backbone
 
 * [2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+* [2021] An Image Is Worth 16X16 Words: Transformer For Image Recognition At Scale
 * [2015] Deep Residual Learning for Image Recognition
 
 ### nick-fpn
