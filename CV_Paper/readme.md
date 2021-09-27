@@ -4,9 +4,11 @@
 
 ### generalized object detection
 
-* [AAAI] Learning Modulated Loss for Rotated Object Detection
+* [2021] Learning Modulated Loss for Rotated Object Detection
 
 ### backbone
+
+* [2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 
 ### nick-fpn
 
