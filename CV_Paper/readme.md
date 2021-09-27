@@ -4,7 +4,6 @@
 
 ### generalized object detection
 
-* [2021] Learning Modulated Loss for Rotated Object Detection
 
 ### backbone
 
@@ -31,6 +30,8 @@
 ### unsupervised
 
 ### semi-supervised
+
+* [2021] End-to-End Semi-supervised Object Detection with Soft Teacher
 
 ### self-supervised
 
