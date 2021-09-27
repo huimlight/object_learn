@@ -17,12 +17,15 @@
 * [2020] EfficientDet: Scalable and Efficient Object Detection
 * [2019] Learning Spatial Fusion for Single-Shot Object Detection
 * [2019] NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection
+* [2019] Libra R-CNN: Towards Balanced Learning for Object Detection(Balanced Feature Pyramids)
 * [2018] Path Aggregation Network for Instance Segmentation
 * [2017] Feature Pyramid Networks for Object Detection
 
 ### long-tailed
 
 ### sample imbalance
+
+* [2019] Libra R-CNN: Towards Balanced Learning for Object Detection
 
 ### label assignment
 
