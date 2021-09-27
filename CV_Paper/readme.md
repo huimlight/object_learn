@@ -2,6 +2,8 @@
 
 ## 2021
 
+物体检测性能提升，一般主要通过数据增强、改进Backbone、改进FPN、改进检测头、改进loss、改进后处理等6个常用手段
+
 ### generalized object detection
 
 * [2021] Probabilistic two-stage detection
