@@ -8,6 +8,7 @@
 ### backbone
 
 * [2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+* [2015] Deep Residual Learning for Image Recognition
 
 ### nick-fpn
 
