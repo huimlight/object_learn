@@ -4,6 +4,7 @@
 
 ### generalized object detection
 
+* [2021] Probabilistic two-stage detection
 * [2019] FreeAnchor: Learning to Match Anchors for Visual Object Detection
 * [2019] FCOS: Fully Convolutional One-Stage Object Detection
 * [2019] Objects as Points
