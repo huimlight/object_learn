@@ -12,6 +12,9 @@
 
 ### nick-fpn
 
+
+* [2017] Feature Pyramid Networks for Object Detection
+
 ### long-tailed
 
 ### sample imbalance
