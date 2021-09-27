@@ -41,6 +41,8 @@
 
 ### long-tailed
 
+* [2021] Seesaw Loss for Long-Tailed Instance Segmentation
+
 ### sample imbalance
 
 * [2019] Libra R-CNN: Towards Balanced Learning for Object Detection
