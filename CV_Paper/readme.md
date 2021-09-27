@@ -13,6 +13,7 @@
 ### nick-fpn
 
 * [2020] DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
+* [2020] Feature Pyramid Transformer
 * [2020] EfficientDet: Scalable and Efficient Object Detection
 * [2019] Learning Spatial Fusion for Single-Shot Object Detection
 * [2019] NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection
