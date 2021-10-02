@@ -53,6 +53,7 @@
 
 * [2021] Adaptive Class Suppression Loss for Long-Tail Object Detection
 * [2021] Seesaw Loss for Long-Tailed Instance Segmentation
+* [2020] Equalization loss for long-tailed object recognition
 
 ### sample imbalance
 
@@ -122,11 +123,23 @@
 
 * [2021] Consistency-based Active Learning for Object Detection
 
-### Meta Learning
+### Meta Learning-Few-Shot Learning
 
 * [2021] Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning
+* [2020] Incremental_Few-Shot_Object_Detection_CVPR_2020_paper
+* [2020] Few-shot Object Detection with Attention-RPN and Mullti-Relation Detector
+* [2020] Few-shot Object Detection and Viewpoint Estimation for Objects in the Wild
+* [2020] Cooperating_RPNs_Improve_Few-Shot_Object_Detectio
+* [2020] Frustratingly Simple Few-Shot Object Detection
+* [2020] Multi-Scale Positive Sample Refinement for Few-Shot Object Detection
+* [2020] Meta-Rcnn Meta Learning for few-shot Object detection
+* [2019] Few-shot Object Detection via Feature Reweighting
+* [2019] Meta-Learning_to_Detect_Rare_Objects_ICCV_2019_paper
+* [2019] Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper
+* [2018] LSTD: A Low-Shot Transfer Detector for Object Detection
 
 ### Self-distillation
+
 * [2021] LGD Label-guided Self-distillation for Object Detection
 
 ### Continual Learning/Lifelong Learning
