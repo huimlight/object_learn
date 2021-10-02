@@ -47,6 +47,7 @@
 * [2019] Libra R-CNN: Towards Balanced Learning for Object Detection(Balanced Feature Pyramids)
 * [2019] CARAFE Content-Aware ReAssembly of FEatures
 * [2018] Path Aggregation Network for Instance Segmentation
+* [2018] Beyond Skip Connections: Top-Down Modulation for Object Detection
 * [2017] Feature Pyramid Networks for Object Detection
 
 ### long-tailed
