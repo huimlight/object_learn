@@ -31,3 +31,5 @@ dgx跑faster rcnn coco 与 之前的 faster rcnn mini coco作对比
 
 208跑face的alpha参数的影响 alpha 0.4
 
+验证之前face 过滤数据之后存在的问题
+
