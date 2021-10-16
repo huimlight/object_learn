@@ -8,6 +8,8 @@ mmdet复现FPT
 
 调试yolof
 
+了解retinanet 这两个参数意思octave_base_scale=4,scales_per_octave=3,
+
 论文学习：
 
 End-to-End Semi-supervised Object Detection with Soft Teacher
