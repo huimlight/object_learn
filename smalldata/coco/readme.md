@@ -15,6 +15,10 @@ instances_train2017_empty_gt.json 文件中没有bbox_gt的注释，主要是学
 
 如果想要学习评价指标，用以下数据集比较合适
 
+## coco_minidata
+
+对coco数据集进行了采样,可以有效缩短以epoch为训练策略的训练时长
+
 
 
 
