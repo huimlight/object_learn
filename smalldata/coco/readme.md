@@ -17,6 +17,11 @@ instances_train2017_empty_gt.json 文件中没有bbox_gt的注释，主要是学
 
 ## coco_minidata
 
+|                              | img number      | ann number   |
+| ---------------------------- | ------- | ------ |
+|train2017 | 118287  | 860001 |
+|train mini| 35504 | 255094 |
+
 对coco数据集进行了采样,可以有效缩短以epoch为训练策略的训练时长
 
 |                              | AP      | AP50   | AP75   | APs    | APm    | APl    | epoch    |dataset    |time    |gpu    |
