@@ -21,8 +21,8 @@ instances_train2017_empty_gt.json 文件中没有bbox_gt的注释，主要是学
 
 |                              | AP      | AP50   | AP75   | APs    | APm    | APl    | epoch    |dataset    |time    |gpu    |
 | ---------------------------- | ------- | ------ | ------ | ------ | ------ | ------ |------ |------ |------ |------ |
-| faster-rcnn-fpn-r50-fpn | 0.375  | 0.585 | 0.408 | 0.219 | 0.411 | 0.484 |12 epoch |coco |2 days |v100 |
-| faster-rcnn-fpn-r50-fpn | 0.304  | 0.519 | 0.318 | 0.162 | 0.334 |  0.393 |12 epoch|mini_coco |14 hours |v100 |
+| faster-rcnn-fpn-r50-fpn | 0.375  | 0.585 | 0.408 | 0.219 | 0.411 | 0.484 |12 epoch |train2017 |2 days |v100 |
+| faster-rcnn-fpn-r50-fpn | 0.304  | 0.519 | 0.318 | 0.162 | 0.334 |  0.393 |12 epoch|train2017_mini |14 hours |v100 |
 | yolof | 0.304  | 0.519 | 0.318 | 0.162 | 0.334 |  0.393 |22500 iters |mini_coco |6 hours |v100 |
 | yolof | 0.304  | 0.519 | 0.318 | 0.162 | 0.334 |  0.393 |22500 iters |mini_coco |14 hours |v100 |
 
