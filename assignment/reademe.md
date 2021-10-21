@@ -41,6 +41,8 @@ dgx跑faster rcnn coco 与 之前的 faster rcnn mini coco作对比
 ----------------------------------------------------------
 人脸调试
 
+将 train 和 val的图片进行统计,把recall 和 ap 不都是1的图片组成新的数据
+
 recall 和 ap都为1,看看对应那种情况
 
 recall为1 但ap不为1的图片挑出来,看看原因是什么
