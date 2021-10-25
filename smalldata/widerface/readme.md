@@ -45,7 +45,7 @@
 
 结论：通过调试发现,如果TP的分数高于FP,ap=1. 如果FP的分数大于TP,虽然被召回了,但ap会下降.
 
-## recall=0/ap=0
+## recall!=1/ap!=1
 
 7_Cheering_Cheering_7_426,这张图片gt=0,所以ap=1
 
