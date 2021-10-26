@@ -20,20 +20,14 @@ mmdet复现FPT
 
 论文学习：
 
-End-to-End Semi-supervised Object Detection with Soft Teacher
-
 Object_Detection_With_Deep_Learning_A_Review
 
 Imbalance_Problems_in_Object_Detection_A_Review
 
-yolof
 
 实验
 
-梧州13结点跑face (face)(验证8卡face效果)
 梧州13结点跑一组 detach为true的实验
-
-梧州14结点跑face (face14)(验证14结点对face项目可以吗)
 
 dgx跑faster rcnn coco 与 之前的 faster rcnn mini coco作对比
 
