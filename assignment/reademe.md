@@ -31,10 +31,6 @@ Imbalance_Problems_in_Object_Detection_A_Review
 
 dgx跑faster rcnn coco 与 之前的 faster rcnn mini coco作对比
 
-梧州15结点跑yolof (yolof15)
-
-208跑face的alpha参数的影响 alpha 0.4
-
 验证之前face 过滤数据之后存在的问题
 
 ----------------------------------------------------------
@@ -44,10 +40,4 @@ dgx跑faster rcnn coco 与 之前的 faster rcnn mini coco作对比
 
 -------------------------------------------------------------------
 用pandas进行分析
-
-recall 和 ap都为1,看看对应那种情况
-
-recall为1 但ap不为1的图片挑出来,看看原因是什么
-
-recall 和 ap 都不唯一的图片挑出来,看看原因是什么
 
