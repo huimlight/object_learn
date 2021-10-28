@@ -101,7 +101,10 @@
 * [2015] What makes for effective detection proposals?
 
 ### dense detection
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] VarifocalNet: An IoU-aware Dense Object Detector
 * [2021] IterDet: Iterative Scheme for Object Detection in Crowded Environments(密集行人检测)
 * [2020] Detection in Crowded Scenes: One Proposal, Multiple Predictions(密集行人检测)
@@ -112,46 +115,74 @@
 ### small scale detection
 
 ### task misalignment
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] TOOD: Task-aligned One-stage Object Detection
 * [2020] Localize to Classify and Classify to Localize: Mutual Guidance in Object Detection
 * [2020] Revisiting the Sibling Head in Object Detector
 * [2018] Learning Region Features for Object Detection
 
 ### 后处理：nms
+[已看]
+
+------------------------------------------------------------------------------------------
+[未看]
 
 * [2021] What Makes for End-to-End Object Detection?
+* [2021] End to End object detection with fully convolutional network
 * [2021] WBF: Weighted boxes fusion: Ensembling boxes from different object detection models
 * [2020] NMS by Representative Region: Towards Crowded Pedestrian Detection by Proposal Pairing(密集行人检测)
 * [2017] soft-nms: Improving Object Detection With One Line of Code
 * [2017] CAD: Scale Invariant Framework for Real-Time Object Detection
 
 ### data augmentation
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2020] Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation
 
 ### unsupervised
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
 * [2021] DetCo: Unsupervised Contrastive Learning for Object Detection
 
 ### semi-supervised
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] End-to-End Semi-supervised Object Detection with Soft Teacher
 * [2021] Instant teaching An End to End semi-supervised object detection framework
 * [2021] unbiased teacher for semi-supervised object detection
+* [2020] A Simple Semi-supervised Learning Framework for Object Detection
+* [2020] Rethinging Pre-training and Self-training
 
 ### self-supervised
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] Self-EMD Self-Supervised Object Detection without ImageNet
 
 ### Active learning
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] Consistency-based Active Learning for Object Detection
 * [2021] Active Learning for Deep Object Detection via Probalilistic Modeling
 
 ### Meta Learning-Few-Shot Learning
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning
 * [2020] Incremental_Few-Shot_Object_Detection_CVPR_2020_paper
 * [2020] Few-shot Object Detection with Attention-RPN and Mullti-Relation Detector
@@ -166,15 +197,24 @@
 * [2018] LSTD: A Low-Shot Transfer Detector for Object Detection
 
 ### Self-distillation
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] LGD Label-guided Self-distillation for Object Detection
 
 ### Continual Learning/Lifelong Learning
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] Towards_Open_World_Object_Detection_CVPR_2021_paper
 
 ### yolo
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] YOLOX: Exceeding YOLO Series in 2021
 * [2021] Scaled-YOLOv4: Scaling Cross Stage Partial Network
 * [2020] YOLOv4: Optimal Speed and Accuracy of Object Detection
@@ -184,7 +224,10 @@
 * [2016] YOLOV1: You Only Look Once:Unified, Real-Time Object Detection
 
 ### 多模态
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] MDETR - Modulated Detection for End-to-End Multi-Modal Understanding
 
 ---
