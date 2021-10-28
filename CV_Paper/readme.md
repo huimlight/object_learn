@@ -29,10 +29,16 @@
 * [2014] Rich feature hierarchies for accurate object detection and semantic segmentation
 
 ### backbone
+[已看]
 
 * [2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 * [2021] An Image Is Worth 16X16 Words: Transformer For Image Recognition At Scale
 * [2015] Deep Residual Learning for Image Recognition
+------------------------------------------------------------------------------------------
+[未看]
+* ECA Net Efficient Channel Attention for Deep Convolutional Neural Networks
+* CSWin Transformer A General Vision Transformer Backbone with Cross-Shaped Windows
+* CROSSFORMER a versatile vision transformer based on cross-scale attention
 
 ### nick-fpn
 
@@ -124,6 +130,7 @@
 ### Active learning
 
 * [2021] Consistency-based Active Learning for Object Detection
+* [2021] Active Learning for Deep Object Detection via Probalilistic Modeling
 
 ### Meta Learning-Few-Shot Learning
 
