@@ -41,9 +41,14 @@
 * CROSSFORMER a versatile vision transformer based on cross-scale attention
 
 ### nick-fpn
+[已看]
 
 * [2021] You Only Look One-level Feature
+* [2017] Feature Pyramid Networks for Object Detection
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] GraphFPN: Graph Feature Pyramid Network for Object Detection
+* [2020] Attention-guided Context Feature Pyramid Network for Object Detection
 * [2020] DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
 * [2020] Feature Pyramid Transformer
 * [2020] Feature Pyramid Grids
@@ -54,23 +59,36 @@
 * [2019] Libra R-CNN: Towards Balanced Learning for Object Detection(Balanced Feature Pyramids)
 * [2019] CARAFE Content-Aware ReAssembly of FEatures
 * [2018] Path Aggregation Network for Instance Segmentation
+* [2018] Deep Feature Pyramid Reconfiguration for Object Detection
 * [2017] Beyond Skip Connections: Top-Down Modulation for Object Detection
-* [2017] Feature Pyramid Networks for Object Detection
 
 ### long-tailed
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] Adaptive Class Suppression Loss for Long-Tail Object Detection
 * [2021] Seesaw Loss for Long-Tailed Instance Segmentation
 * [2020] Equalization loss for long-tailed object recognition
 
 ### sample imbalance
+[已看]
 
+------------------------------------------------------------------------------------------
+[未看]
+* [2021] A Ranking-based Balanced Loss Function Unifying Classification and Localisation in Object Detection
+* [2020] Revisiting the Sibling Head in Object Detector
 * [2020] Generalized Focal Loss V2 Learning Reliable Localization Quality Estimation for Dense Object Detection
 * [2019] Libra R-CNN: Towards Balanced Learning for Object Detection
 * [2018] Focal Loss for Dense Object Detection
+* [2016] HOEM:Traing region-based object detectors with online hard example mining
 
 ### label assignment
+[已看]
 
+* [2021] You Only Look One-level Feature
+------------------------------------------------------------------------------------------
+[未看]
 * [2021] LLA: Loss-aware Label Assignment for Dense Pedestrian Detection
 * [2021] OTA: Optimal Transport Assignment for Object Detection
 * [2020] Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training
