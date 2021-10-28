@@ -36,8 +36,8 @@
 
 ### nick-fpn
 
-* [2021] You Only Look One-level Feature(CVPR)
-* [2021] GraphFPN: Graph Feature Pyramid Network for Object Detection(ICCV)
+* [2021] You Only Look One-level Feature
+* [2021] GraphFPN: Graph Feature Pyramid Network for Object Detection
 * [2020] DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
 * [2020] Feature Pyramid Transformer
 * [2020] Feature Pyramid Grids
