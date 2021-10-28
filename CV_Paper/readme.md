@@ -135,6 +135,14 @@
 * [2020] Revisiting the Sibling Head in Object Detector
 * [2018] Learning Region Features for Object Detection
 
+### Correlation betweent the classification socre and localization accuaracy
+[已看]
+
+[2020] IoU-aware Single-stage Object Detector for Accurate Localization
+------------------------------------------------------------------------------------------
+[未看]
+
+
 ### 后处理：nms
 [已看]
 
