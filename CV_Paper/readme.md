@@ -6,6 +6,11 @@
 
 物体检测性能提升，一般主要通过数据增强、改进Backbone、改进FPN、改进检测头、改进loss、改进后处理等6个常用手段
 
+### tools
+
+* [2020] TIDE: A General Toolbox for Identifying Object Detection Errors
+* Diagnosing Error in Object Detectors
+
 ### generalized object detection
 
 * [2021] Dynamic Head: Unifying Object Detection Heads with Attentions
@@ -27,6 +32,12 @@
 * [2015] Fast R-CNN
 * [2014] Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
 * [2014] Rich feature hierarchies for accurate object detection and semantic segmentation
+
+### dataset
+
+[2020] PANDA: A Gigapixel-level Human-centric Video Dataset
+[2019] Scale Match for Tiny Person Detection
+[2016] WIDER FACE: A Face Detection Benchmark
 
 ### backbone
 [已看]
@@ -229,5 +240,12 @@
 ------------------------------------------------------------------------------------------
 [未看]
 * [2021] MDETR - Modulated Detection for End-to-End Multi-Modal Understanding
+
+### 人脸检测
+[已看]
+
+[2020] TinaFace: Strong but Simple Baseline for Face Detection
+------------------------------------------------------------------------------------------
+[未看]
 
 ---
