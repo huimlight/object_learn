@@ -11,6 +11,11 @@
 * [2020] TIDE: A General Toolbox for Identifying Object Detection Errors
 * Diagnosing Error in Object Detectors
 
+### review
+
+* Object_Detection_With_Deep_Learning_A_Review
+* Imbalance_Problems_in_Object_Detection_A_Review
+
 ### generalized object detection
 
 * [2021] Dynamic Head: Unifying Object Detection Heads with Attentions
@@ -138,7 +143,7 @@
 ### Correlation betweent the classification socre and localization accuaracy
 [已看]
 
-[2020] IoU-aware Single-stage Object Detector for Accurate Localization
+* [2020] IoU-aware Single-stage Object Detector for Accurate Localization
 ------------------------------------------------------------------------------------------
 [未看]
 
