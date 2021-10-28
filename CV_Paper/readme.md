@@ -244,7 +244,7 @@
 ### 人脸检测
 [已看]
 
-[2020] TinaFace: Strong but Simple Baseline for Face Detection
+* [2020] TinaFace: Strong but Simple Baseline for Face Detection
 ------------------------------------------------------------------------------------------
 [未看]
 
