@@ -27,6 +27,8 @@ Imbalance_Problems_in_Object_Detection_A_Review
 
 实验
 
+调试faster-rcnn(主要看rpnloss 与 roiloss是否除以个数)
+
 梧州13结点跑一组 detach为true的实验
 
 dgx跑faster rcnn coco 与 之前的 faster rcnn mini coco作对比
