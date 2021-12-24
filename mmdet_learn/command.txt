@@ -29,6 +29,8 @@ python tools/misc/save_mosaic.py configs/shiyan/yolox_l_8x8_300e_coco.py --outpu
 6.将推理结果保存为json文件,用于之后的分析
 python tools/test.py configs/xxxx.py check/xxxx.pth --format-only --options "jsonfile_prefix=./soft-teacher-bbox-results"
 
+7.用于分析物体检测质量的工具
+python tools/analysis_tools/coco_error_analysis.py ../../detections_val2017_mh.json save_ana_results --ann=../../data/coco/annotations/instances_val2017.json
 
 Linux 
 1.后台运行命令(梧州集群)
