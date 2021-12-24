@@ -26,6 +26,9 @@ python tools/dataset_converters/pascal_voc.py data/VOCdevkit -o data/voctococo -
 5.将mosaic与mixup数据增强保存为coco格式的数据集用于做实验(这部分代码在公司generalizeddetection里)
 python tools/misc/save_mosaic.py configs/shiyan/yolox_l_8x8_300e_coco.py --output-dir data/coco/mosaic --not-show
 
+6.将推理结果保存为json文件,用于之后的分析
+python tools/test.py configs/xxxx.py check/xxxx.pth --format-only --options "jsonfile_prefix=./soft-teacher-bbox-results"
+
 
 Linux 
 1.后台运行命令(梧州集群)
