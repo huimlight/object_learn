@@ -20,6 +20,10 @@ python demo/image_demo.py demo/xxx.jpg configs/xxx/xxx.py check/xxx.pth
 classwise=True 表示展示每个类的AP值
 python tools/test.py configs/xxx/xxx.py check/xxx.pth --eval bbox --eval-options classwise=True
 
+4.将voc格式的数据集转化为coco格式的数据集
+python tools/dataset_converters/pascal_voc.py data/VOCdevkit -o data/voctococo --out-format coco
+
+
 Linux 
 1.后台运行命令(梧州集群)
 nohup bash tools/dist_train.sh configs/xxx/xxx.py 8 --seed xxx > runoob.log 2>&1 &
