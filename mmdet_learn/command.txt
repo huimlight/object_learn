@@ -23,6 +23,9 @@ python tools/test.py configs/xxx/xxx.py check/xxx.pth --eval bbox --eval-options
 4.将voc格式的数据集转化为coco格式的数据集
 python tools/dataset_converters/pascal_voc.py data/VOCdevkit -o data/voctococo --out-format coco
 
+5.将mosaic与mixup数据增强保存为coco格式的数据集用于做实验
+python tools/misc/save_mosaic.py configs/shiyan/yolox_l_8x8_300e_coco.py --output-dir data/coco/mosaic --not-show
+
 
 Linux 
 1.后台运行命令(梧州集群)
