@@ -42,3 +42,87 @@ cat 1.z01 1.z02 1.zip > combined.zip && unzip -FF combined.zip
 Detectron2
 
 
+
+
+fiftyone
+导入coco val数据
+
+import fiftyone as fo
+import fiftyone.zoo as foz
+import fiftyone.utils.coco as fouc
+
+#方式一：从数据库中导入
+dataset = foz.load_zoo_dataset(
+    "coco-2017",
+    split="validation",
+    label_types=["detections"]
+)
+
+#方式二：从本地导入
+dataset = fo.Dataset.from_dir(
+    dataset_type=fo.types.COCODetectionDataset,
+    data_path=data_path, #数据的路径
+    labels_path=labels_path, #标注的路径
+    name=name, #数据的名称
+)
+
+classes = dataset.distinct("ground_truth.detections.label") #查看类别
+
+# Export images and ground truth labels to disk
+# 获取fiftyone修改类别id的json文件
+dataset.export(
+    export_dir="F:\\coco",  #导出路径
+    dataset_type=fo.types.COCODetectionDataset,
+    classes=classes,
+    label_field="ground_truth",
+)
+
+导入预测的json文件
+1.采用mmdetection输出预测的json文件
+2.将输出的json格式更改为coco的训练json格式
+import json
+with open("F:\\prediction.json", 'r') as f:
+    predictions = json.load(f)
+with open("F:\\instances_val2017.json", 'r') as f:
+    annotations = json.load(f)
+
+tmp_ana = []
+_id = 1
+for item in predictions:
+    single = {}
+    single["id"] = _id
+    single["image_id"] = item["image_id"]
+    single["category_id"] = item["category_id"]
+    single["bbox"] = item["bbox"]
+    single["score"] = item["score"]
+    #single["area"] = item["bbox"][2] * item["bbox"][3]
+    #single["iscrowd"] = 0
+    _id += 1
+    tmp_ana.append(single)
+
+result = {}
+result['info'] = annotations['info']
+result['licenses'] = annotations['licenses']
+result['images'] = annotations['images']
+result['categories'] = annotations['categories']
+result['annotations'] = tmp_ana
+
+with open("F:\\fiftyone\\dataset\\coco\\prediction\\soft-teacher.json", "w") as dump_f:
+    json.dump(result, dump_f)
+    
+3.将图片与转换后的json格式导入fiftyone,然后导出,获取fiftyone修改后的json文件
+
+4.导入gt与预测的json文件
+
+fouc.add_coco_labels(
+    dataset,
+    "predictions",
+    predictions["annotations"],
+    classes=classes,
+)
+    
+print(dataset.count("ground_truth.detections")) #输出gt的个数
+print(dataset.count("predictions.detections")) #输出预测的label个数
+    
+    
+    
