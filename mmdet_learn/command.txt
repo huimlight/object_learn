@@ -124,5 +124,7 @@ fouc.add_coco_labels(
 print(dataset.count("ground_truth.detections")) #输出gt的个数
 print(dataset.count("predictions.detections")) #输出预测的label个数
     
-    
-    
+
+#可视化
+session = fo.launch_app(dataset,port = 5151)  # 没有指定port则默则5151
+session.wait()  # 官网给的示例没有这一句，记得加上，不然程序不会等待，在网页中看不到我们要的效果
