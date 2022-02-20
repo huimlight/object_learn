@@ -39,6 +39,9 @@ nohup bash tools/dist_train.sh configs/xxx/xxx.py 8 --seed xxx > runoob.log 2>&1
 2.将分卷解压
 cat 1.z01 1.z02 1.zip > combined.zip && unzip -FF combined.zip
 
+3.指定时间执行命令
+at 15:30 tomorrow
+
 Detectron2
 
 
