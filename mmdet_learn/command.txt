@@ -131,3 +131,23 @@ print(dataset.count("predictions.detections")) #输出预测的label个数
 #可视化
 session = fo.launch_app(dataset,port = 5151)  # 没有指定port则默则5151
 session.wait()  # 官网给的示例没有这一句，记得加上，不然程序不会等待，在网页中看不到我们要的效果
+
+
+git
+git init # 初始化本地仓库  https://www.runoob.com/git/git-init.html
+
+git remote -v #显示所有远程仓库
+git remote add [shortname] [url]  #添加远程版本库
+git remote rm name  # 删除远程仓库
+git remote rename old_name new_name  # 修改仓库名
+
+git branch #列出你在本地的分支
+git branch (branchname) # 手动创建一个分支
+git checkout branchname #切换分支
+git branch -d (branchname) #删除分支
+
+git status #显示有变更的文件
+
+git add . #添加当前目录下的所有文件到暂存区
+git commit -m [message] #将暂存区的文件添加到本地仓库，可以提供一些保存的信息
+
