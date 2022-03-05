@@ -151,3 +151,4 @@ git status #显示有变更的文件
 git add . #添加当前目录下的所有文件到暂存区
 git commit -m [message] #将暂存区的文件添加到本地仓库，可以提供一些保存的信息
 git push <远程主机名> <本地分支名>:<远程分支名>
+git push <远程主机名> --delete <远程分支名> # 删除远程分支
