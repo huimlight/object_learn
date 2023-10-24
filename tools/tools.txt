@@ -1,2 +1,5 @@
 1.对比两个文档的不同之处
 https://www.diffchecker.com/diff
+
+2. 将目录下的bash文件合并为一个bash文件
+find /data/mahui/project/cocoop/CoOp_dynamic/scripts/vit_ -name "*.sh" -exec cat {} >> merged_script.sh \;
