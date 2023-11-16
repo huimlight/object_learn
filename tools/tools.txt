@@ -3,3 +3,6 @@ https://www.diffchecker.com/diff
 
 2. 将目录下的bash文件合并为一个bash文件
 find /data/mahui/project/cocoop/CoOp_dynamic/scripts/vit_ -name "*.sh" -exec cat {} >> merged_script.sh \;
+
+3. 拷贝目录时排除某些目录
+rsync -av --exclude={xxx,xxx} 源目录 目标目录
