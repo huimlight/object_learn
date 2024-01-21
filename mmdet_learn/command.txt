@@ -32,6 +32,11 @@ python tools/test.py configs/xxxx.py check/xxxx.pth --format-only --options "jso
 7.用于分析物体检测质量的工具
 python tools/analysis_tools/coco_error_analysis.py ../../detections_val2017_mh.json save_ana_results --ann=../../data/coco/annotations/instances_val2017.json
 
+CUDA_VISIBLE_DEVICES=1 python tools/test.py configs/yolof/yolof_r50-c5_8xb8-1x_coco.py che
+ckout/yolof_r50_c5_8x8_1x_coco_20210425_024427-8e864411.pth --cfg-options test_evaluator.format_only=True test_evaluator.outfile_prefix=yolof_results
+
+
+
 Linux 
 1.后台运行命令(梧州集群)
 nohup bash tools/dist_train.sh configs/xxx/xxx.py 8 --seed xxx > runoob.log 2>&1 &
